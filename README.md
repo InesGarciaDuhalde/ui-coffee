@@ -8,7 +8,7 @@
 
 ## Pasos:
 0. Descargar WAVE como extensión del navegador. Una vez instalado, reiniciar el navegador para que funcione.
-1. Clonar el repositorio.
+1. Realizar un fork del repositorio. Una vez creado el nuevo repositorio, clonarlo.
 2. Abrirlo en Visual Studio Code.
 3. Utilizar Live server para obtener la URL y llevarlo al navegador.
 4. Ejecutar WAVE en el sitio desde el menú de extensiones del navegador.
